@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+
+html{
+    background-color: black;
+}
+
+*{
+    color:azure;
+}
+
+html{
+    background-image: url(https://images.pexels.com/photos/220067/pexels-photo-220067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+}
+
+.content{
+    font-size: 20px;
+    font-style: oblique;
+}
